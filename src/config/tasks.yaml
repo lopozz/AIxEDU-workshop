@@ -1,0 +1,30 @@
+answer_analysis_task:
+  description: >
+    Given the following context:
+    {context}
+    for this question "{question}", create a detailed report providing a factual,
+    content-centric breakdown of the differences the correct answer "{correct_answer}"
+    and incorrect answers "{incorrect_answer}". All the statement has to be backed up
+    by passages in the context that support them. Pay attention at details.
+  expected_output: >
+    A two paragraph report. One dedicated to elaborate on the correctness of the answer "{correct_answer}. 
+    The second paragraph dedicated to explain why the incorrect answer "{incorrect_answer}" is wrong.
+
+student_mind_reader_task:
+  description: >
+    Write down the thought process that led a exam candidate to
+    pick the answer: "{incorrect_answer}" for the exam question "{question}". Write
+    one thought at the time while the exam candidate read this passage {context}
+  expected_output: >
+    A bullet list of the mental steps simulating the train of thoughts that led
+    the exam candidate to answer incorrectly.
+
+student_feedback_task:
+  description: >
+    A feedback of few paragraphs that helps the exam candidate understand the mistake 
+    and improve in the future. If necessary, include segments from the context that 
+    may be useful to understand what went wrong. This make the feedback clearer.
+  expected_output: >
+    Two or three paragraphs explaining why the exam candidate's answer was wrong,
+    the correct answer and advise for not making the same mistake in the future.
+    Optionally the segments of the context to support the feedback. 

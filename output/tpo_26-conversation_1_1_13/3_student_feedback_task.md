@@ -1,0 +1,7 @@
+Caro studente,
+
+Hai fatto un buon tentativo nel rispondere alla domanda sulla comparazione dei prezzi delle biglietti da visita, ma ci sono alcuni aspetti che necessitano di attenzione. Nella tua risposta, hai affermato che i biglietti da visita del negozio in città erano più economici perché il tuo amico li aveva acquistati lì. Tuttavia, questa conclusione non è supportata dalle informazioni fornite nel testo. Infatti, il tuo amico ha descritto i biglietti come "piuttosto costosi", il che suggerisce che i prezzi al negozio in città siano più alti rispetto all'offerta della tipografia, che propone 25 biglietti standard per "forse 2 dollari". Questo chiarisce che i biglietti del negozio in città sono effettivamente più costosi.
+
+Per migliorare in futuro, ti consiglio di prestare maggiore attenzione ai dettagli e alle informazioni comparative quando affronti domande simili. È fondamentale analizzare il contesto e le affermazioni fatte, evitando di fare assunzioni basate su esperienze personali senza considerare ciò che viene chiaramente detto nel passaggio. Prova a riassumere le informazioni principali prima di trarre conclusioni e cerca di stabilire un confronto diretto tra le opzioni presentate. Questo ti aiuterà a evitare errori simili e a sviluppare un'analisi più accurata.
+
+Continua a lavorare con impegno, e vedrai sicuramente dei miglioramenti!
